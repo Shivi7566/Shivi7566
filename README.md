@@ -49,6 +49,7 @@ India's smart cyber cafe & online Xerox kiosk platform transforming localized do
 | :--- | :--- | :--- |
 | 📦 **[entra-powershell-toolkit](https://github.com/Shivi7566/entra-powershell-toolkit)** | Production PowerShell automation for Entra ID tenant hardening, PIM, and SOC telemetry. | PowerShell, Microsoft Graph, KQL |
 | 🔑 **[graph-api-toolkit](https://github.com/Shivi7566/graph-api-toolkit)** | Complete Microsoft Graph REST API mapping (v1.0 & Beta) across 24 admin domains. | Microsoft Graph, REST, JSON |
+| ⚡ **[cloud-computing-architecture-guide](https://github.com/Shivi7566/cloud-computing-architecture-guide)** | 20,000+ words enterprise masterclass on AWS, Azure, GCP, Kubernetes, and FinOps ([Live Web Edition](https://shivi7566.github.io/cloud-computing-guide.html)). | Cloud Architecture, K8s, Terraform |
 | 💻 **[Shivi7566.github.io](https://github.com/Shivi7566/Shivi7566.github.io)** | High-performance developer portfolio and technical publication index. | HTML5, CSS3, JavaScript |
 
 ---
