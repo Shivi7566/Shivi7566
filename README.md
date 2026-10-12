@@ -1,7 +1,8 @@
 # Hi, I'm Shivam Tiwari 👋
-### Senior IAM Engineer & Identity Architect · Founder of [Cloud Knowledge](https://cloudknowledge.in)
+### Senior IAM Engineer & Identity Architect · Founder of [Cloud Knowledge](https://cloudknowledge.in) & [PrintKrlo](https://printkrlo.in)
 
 [![Website](https://img.shields.io/badge/Website-cloudknowledge.in-5b8bff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudknowledge.in)
+[![Product](https://img.shields.io/badge/Product-PrintKrlo.in-FF6B35?style=for-the-badge&logo=googlecloud&logoColor=white)](https://printkrlo.in)
 [![YouTube](https://img.shields.io/badge/YouTube-@Cloud--Knowledge-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Cloud-Knowledge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamtiwari78)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shivi7566.github.io-2fe0c6?style=for-the-badge&logo=githubpages&logoColor=black)](https://shivi7566.github.io)
@@ -29,6 +30,16 @@ I am the founder and lead technical architect of **[Cloud Knowledge (cloudknowle
 - ⚡ [Enterprise Linux eBPF Runtime Security: Cilium Tetragon & Falco](https://cloudknowledge.in/linux/linux-ebpf-runtime-security-tetragon-falco-architecture/)
 - ☸️ [Kubernetes Multi-Cluster Service Mesh & Sidecarless Istio Ambient Mesh](https://cloudknowledge.in/kubernetes/kubernetes-multi-cluster-service-mesh-istio-ambient-mesh-sidecarless-mtls/)
 - 🎯 [Top 35 Microsoft Entra ID Scenario Interview Questions & Deep Dives](https://cloudknowledge.in/top-35-microsoft-entra-id-scenario-interview-questions-and-answers/)
+
+---
+
+## 🖨️ Products & Ventures: PrintKrlo.in
+**[PrintKrlo (प्रिंटकरलो)](https://printkrlo.in)** — *A Product by Cloud Knowledge*.
+
+India's smart cyber cafe & online Xerox kiosk platform transforming localized document printing and xerox services:
+- ⚡ **Touchless Cloud Kiosk:** Upload documents securely from mobile or web and get high-speed prints at nearby partner kiosks without pendrives or data leaks.
+- 🏪 **Partner Kiosk Ecosystem:** Digitizing local cyber cafes and xerox shops with automated print queue management, instant payment gateways, and enterprise billing.
+- 🚀 **Explore Platform:** **[https://printkrlo.in](https://printkrlo.in)**
 
 ---
 
@@ -66,6 +77,7 @@ I am the founder and lead technical architect of **[Cloud Knowledge (cloudknowle
 
 ### 📫 Connect with Me:
 - 🌐 Architecture Portal: **[https://cloudknowledge.in](https://cloudknowledge.in)**
+- 🖨️ Smart Print Platform: **[https://printkrlo.in](https://printkrlo.in)**
 - 📺 YouTube: **[@Cloud-Knowledge](https://www.youtube.com/@Cloud-Knowledge)**
 - 💼 LinkedIn: **[linkedin.com/in/shivamtiwari78](https://www.linkedin.com/in/shivamtiwari78)**
 - ✉️ Direct Email: **contact@cloudknowledge.in** / **shivam782872@gmail.com**
